@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me
 
 👋 Hi, I'm Ritu Anuragi, a Full Stack Developer passionate about building scalable, high-performance web applications and cloud-based solutions.
 
