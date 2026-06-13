@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 I'm Ritu Anuragi, a tech enthusiast with a passion for building innovative solutions. <br>🔭 I enjoy exploring various technologies and programming languages to create robust and efficient software solutions. <br>🤝 I'm passionate about collaborating on projects and open to new opportunities.<br>🌱 I’m currently learning more about PHP and advanced Java. I'm also working on improving my knowledge of JavaScript and React.<br>📫 Let's connect! You can reach out to me at rituanuragi1@gmail.com
+# 💫 About Me
 
+👋 Hi, I'm Ritu Anuragi, a Full Stack Developer passionate about building scalable, high-performance web applications and cloud-based solutions.
+
+💼 Experienced in developing end-to-end applications using modern technologies including React, Next.js, NestJS, Node.js, and SQL databases.
+
+☁️ Skilled in cloud platforms such as AWS and Azure, with hands-on experience in deploying, managing, and optimizing applications in cloud environments.
+
+🚀 I enjoy designing robust backend architectures, building responsive user interfaces, integrating APIs, and delivering seamless user experiences.
+
+🔭 Passionate about solving real-world business problems through technology and continuously learning emerging tools and best practices.
+
+🤝 Open to collaborating on innovative projects, open-source contributions, and exciting career opportunities.
+
+📫 Reach me at: **rituanuragi1@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituanuragi) 
